@@ -14,14 +14,16 @@ Google Sheets was used as the primary tool for data analysis. The preprocessed d
 
 ## Presentation
 The analysis results were visualized and presented using slides. The presentation aimed to provide a clear overview of the shop's current performance, growth trajectory, and potential opportunities. It included graphs, charts, and key findings to effectively communicate the analysis outcomes.
-## Screenshots
+## Sample Screenshots
 
 
 <table align="center">
   <tr>
-    <td><img src="screenshots/urban.jpg" alt="Page" width="800" height="600"/></td>
+    <td><img src="screenshots/urban_01.jpg" alt="Page" width="800" height="600"/></td>
   </tr>
-  
+  <tr>
+    <td><img src="screenshots/urban_02.jpg" alt="Page" width="800" height="600"/></td>
+  </tr>
 </table>
 ## Conclusion
 This project involved the collection, preprocessing, and analysis of raw and real-time data from a local shop. By leveraging Google Sheets and employing course knowledge, the data was cleaned, analyzed, and presented to indicate the shop's growth, future possibilities, improvement factors, and suggestions for further development. The project outcomes aim to provide valuable insights for the shop's stakeholders and aid in making informed decisions.
