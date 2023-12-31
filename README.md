@@ -28,3 +28,8 @@ The analysis results were visualized and presented using slides. The presentatio
 
 ## Conclusion
 This project involved the collection, preprocessing, and analysis of raw and real-time data from a local shop. By leveraging Google Sheets and employing course knowledge, the data was cleaned, analyzed, and presented to indicate the shop's growth, future possibilities, improvement factors, and suggestions for further development. The project outcomes aim to provide valuable insights for the shop's stakeholders and aid in making informed decisions.
+
+
+Thank you for viewing this repo! Feel free to reach out with any questions or feedback.
+
+<em style="color: #ff66b2; font-weight: bold;">✨ --- Designed & made with Love by Shib Kumar Saraf ✨</em>
